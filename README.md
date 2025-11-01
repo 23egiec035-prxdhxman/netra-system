@@ -214,18 +214,13 @@ This will start:
 
 ## 👥 Team
 
-- **Project Lead**: Pradhyuman Singh Pancholi (@23egiec035-prxdhxman)
-- **Institution**: University of Nairobi
-- **Email**: 23egiec035@gits.ac.in
+- **Project Lead**: Avinash Jha (@23egiec035-prxdhxman)/ (@404Avinash)
+- **Institution**: Abes Ec
+- **Email**: avinash1807007@gmail.com
 
 ---
 
-## 🙏 Acknowledgments
 
-- University of Nairobi - Research Support
-- Counter-IED Research Community
-- NVIDIA - Jetson Platform Support
-- Open-source ML Community
 
 ---
 
